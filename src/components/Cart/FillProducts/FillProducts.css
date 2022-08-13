@@ -1,0 +1,228 @@
+.add-item{
+    min-width: 20px;
+    max-width: 20px;
+    width: 20px;
+    max-height: 20px;
+    min-height: 20px;
+    height: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quantity{
+    min-width: 20px;
+    max-width: 20px;
+    width: 20px;
+    max-height: 20px;
+    min-height: 20px;
+    height: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    min-width: 264px;
+    max-width: 264px;
+}
+
+
+
+@media(min-width: 1536px){
+    .add-item{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quantity{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(min-width: 1280px){
+    .add-item{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quantity{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(min-width: 1024px){
+    .add-item{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quantity{
+        min-width: 40px;
+        max-width: 40px;
+        width: 40px;
+        max-height: 40px;
+        min-height: 40px;
+        height: 40px;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(min-width: 768px){
+    .add-item{
+        min-width: 30px;
+        max-width: 30px;
+        width: 30px;
+        max-height: 30px;
+        min-height: 30px;
+        height: 30px;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .quantity{
+        min-width: 30px;
+        max-width: 30px;
+        width: 30px;
+        max-height: 30px;
+        min-height: 30px;
+        height: 30px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(max-width: 640px){
+    .size-button{
+        min-width: 28px;
+        max-width: 28px;
+    }
+
+    .img{
+        max-width: 200px;
+        min-width: 200px;
+    }
+
+    .color{
+        max-width: 20px;
+        min-width: 20px;
+        height: 20px;
+    }
+
+    .quantity{
+        min-width: 30px;
+        max-width: 30px;
+        width: 30px;
+        max-height: 30px;
+        min-height: 30px;
+        height: 30px;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(max-width: 440px){
+
+    .items ul li .item{
+       height: 180px;
+    }
+
+    .size-button{
+        min-width: 20px;
+        max-width: 20px;
+        height: 20px;
+    }
+
+    .img{
+        max-width: 140px;
+        min-width: 140px;
+    }
+
+    .color{
+        max-width: 20px;
+        min-width: 20px;
+        height: 20px;
+    }
+
+    .quantity{
+        min-width: 30px;
+        max-width: 30px;
+        width: 30px;
+        max-height: 30px;
+        min-height: 30px;
+        height: 30px;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+@media(max-width: 280px){
+    .quantity{
+        min-width: 30px;
+        max-width: 30px;
+        width: 30px;
+        max-height: 30px;
+        min-height: 30px;
+        height: 30px;
+        font-size: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

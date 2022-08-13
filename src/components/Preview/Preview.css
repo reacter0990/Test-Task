@@ -1,0 +1,256 @@
+.item-name {
+    font-family: 'Raleway';
+    font-style: normal;
+}
+
+.item-title {
+    font-family: 'Raleway';
+}
+
+.size-title-text {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+}
+
+.size-title-text {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+@media(max-width:768px) {
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:636px) {
+    .preview-container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .preview {
+        height: 300px;
+    }
+
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 560px) {
+
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .item-title {
+        font-size: 14px;
+    }
+}
+
+
+@media(max-width: 462px) {
+    .preview-container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .preview {
+        height: 250px;
+    }
+
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 13px;
+    }
+}
+
+
+@media(max-width: 445px){
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 13px;
+    }
+}
+
+
+@media(max-width: 420px) {
+    .preview-container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .preview {
+        height: 200px;
+    }
+
+    .add-to-card-button {
+        font-size: 10px;
+    }
+
+    .item-name {
+        font-size: 15px;
+    }
+
+    .item-title {
+        font-size: 12px;
+    }
+}
+
+
+@media(max-width: 415px) {
+    .preview-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .preview {
+        height: 180px;
+    }
+
+    .add-to-card-button {
+        font-size: 8px;
+    }
+
+    .picture-icon-sm {
+        width: 80px;
+    }
+}
+
+@media(max-width: 406px) {
+
+    .size-title-text {
+        font-size: 10px;
+    }
+
+    .color-title-text {
+        font-size: 10px;
+    }
+
+    .item-name {
+        font-size: 12px;
+    }
+
+    .item-title {
+        font-size: 12px;
+    }
+}
+
+@media(max-width: 385px){
+    .item-name {
+        font-size: 12px;
+    }
+
+    .item-title {
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 364px) {
+    .item-name {
+        font-size: 12px;
+    }
+
+    .item-title {
+        font-size: 8px;
+    }
+}
+
+
+
+
+@media(max-width: 282px) {
+    .preview-container {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .preview {
+        height: 150px;
+    }
+
+    .add-to-card-button {
+        font-size: 6px;
+    }
+
+    .picture-icon-sm {
+        width: 80px;
+    }
+
+    .item-name {
+        font-size: 10px;
+    }
+
+    .item-title {
+        font-size: 8px; 
+    }
+}
+
+
+@media(max-width: 240px) {
+    .preview-container {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .preview {
+        height: 150px;
+    }
+
+    .add-to-card-button {
+        font-size: 6px;
+    }
+
+    .picture-icon-sm {
+        width: 80px;
+    }
+
+    .preview-container .image {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .item-name {
+        font-size: 10px;
+    }
+
+    .item-title {
+        font-size: 8px;
+    }
+}
+
+@media(max-width:210px) {
+    .item-name {
+        font-size: 9px;
+    }
+
+    .item-title {
+        font-size: 9px;
+    }
+}
